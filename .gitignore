@@ -1,0 +1,6 @@
+api_key.txt
+chromaDB_store/
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints/
